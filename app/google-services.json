@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991115103640",
+    "firebase_url": "https://notificacionesuteq.firebaseio.com",
+    "project_id": "notificacionesuteq",
+    "storage_bucket": "notificacionesuteq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991115103640:android:25c37534067dffd7",
+        "android_client_info": {
+          "package_name": "com.notificaciones.uteq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991115103640-voa72o5qvmnjdmg3bkuului57na86a3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjONLNn65N-wpZQY1ly8_PhyjNsoQr8h4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
